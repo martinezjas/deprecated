@@ -22,8 +22,8 @@
           <div class="flex">
             <router-link to="/himnario"
               class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-l font-medium">Himnario</router-link>
-            <router-link to="/nextcloud"
-              class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-l font-medium">Nextcloud</router-link>
+            <a href="/nextcloud"
+              class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-l font-medium">Nextcloud</a>
           </div>
         </div>
       </div>
