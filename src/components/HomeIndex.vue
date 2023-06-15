@@ -1,17 +1,17 @@
 <template>
-  <main class="index flex flex-col items-center justify-center h-screen">
+  <main class="flex flex-col items-center justify-center h-screen index">
     <div class="flex items-center">
-      <div class="rounded-full overflow-hidden h-80 w-80">
+      <div class="overflow-hidden rounded-full h-80 w-80">
         <img src="@/assets/static/me.jpg" alt="Profile picture">
       </div>
       <div class="ml-4">
         <h1 class="text-5xl font-bold leading-tight text-white">Hi, I'm Jason Martinez!</h1>
-        <p class="text-3xl text-center mt-5 text-gray-300">Welcome to my website!</p>
+        <p class="mt-5 text-3xl text-center text-gray-300">Welcome to my website!</p>
         <div class="flex items-center justify-center mt-5">
           <a href="https://github.com/martinezjas" class="mr-5">
             <BIconGithub class="text-4xl text-center text-gray-300" />
           </a>
-          <a href="https://linkedin.com/in/martinezjas">
+          <a href="https://linkedin.com/in/jason-o-martinez">
             <BIconLinkedin class="text-4xl text-center text-gray-300" />
           </a>
         </div>
